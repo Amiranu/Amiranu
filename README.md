@@ -1,4 +1,4 @@
-# Hi, I'm Salsabil Amir....
+# Hi, I'm Salsabil Amir 
 
 > Coding to solve real-world problems and build high-utility products. Not just for a job title, but because I love shipping software that works.
 
@@ -8,7 +8,7 @@ I build software to solve real problems—first my own, then other people's. Whe
 
 ## What I work on
 
-* **Media streaming apps:** built [Lyrafy](https://lyrafy-app.pages.dev/), a Spotify-style music application focused on smooth web playback and responsive UI
+* **Media streaming apps:** built [Lyrafy](https://lyrafy-music.pages.dev/), a Spotify-style music application focused on smooth web playback and responsive UI
 * **Developer & web utilities:** created [Pixeltools](https://www.pixeltools.qzz.io/), a lightweight toolkit handling fast client-side performance tasks
 * **AI tooling & automation:** currently building a floating desktop AI assistant that bridges cloud APIs (Gemini) with offline LLMs (LM Studio)
 * **Full-stack web architecture:** designing clean frontend flows with reliable cloud hosting (Cloudflare Pages, Netlify)
