@@ -1,4 +1,4 @@
-# Hi, I'm Salsabil Amir 
+# Hi, I'm Salsabil Amir Arnob
 
 > Coding to solve real-world problems and build high-utility products. Not just for a job title, but because I love shipping software that works.
 
